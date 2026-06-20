@@ -1,0 +1,5 @@
+# Dependencias Python para el proyecto
+# (lp_solve se instala aparte con: sudo apt install lp-solve)
+
+numpy>=1.24
+matplotlib>=3.6
